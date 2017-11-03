@@ -1,8 +1,7 @@
 
 <?php
   
-  echo "Nós Terranos!";
-
-  echo "Stardust aterrisa";
+  echo "Nós Marcianos!!!";
+  echo  "Stardust decola";
 
 ?>
